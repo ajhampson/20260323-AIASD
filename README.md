@@ -87,6 +87,11 @@ A basic WPF calculator UI built with C# and .NET 8.
 
 - [README.md](README.md): Project documentation with embedded provenance metadata. Log: [conversation.md](ai-logs/2026/03/23/retrofit-ai-provenance-20260323/conversation.md)
 - [.github/instructions/evergreen-software-development.instructions.md](.github/instructions/evergreen-software-development.instructions.md): Core principles for evergreen software development. Log: [conversation.md](ai-logs/2026/03/23/create-evergreen-instructions-20260323/conversation.md)
+- [.github/instructions/dotnet.instructions.md](.github/instructions/dotnet.instructions.md): .NET 8 project and build guidance for this WPF app. Log: [conversation.md](ai-logs/2026/03/23/create-technology-instructions-20260323/conversation.md)
+- [.github/instructions/csharp.instructions.md](.github/instructions/csharp.instructions.md): C# guidance for calculator logic and event handlers. Log: [conversation.md](ai-logs/2026/03/23/create-technology-instructions-20260323/conversation.md)
+- [.github/instructions/wpf.instructions.md](.github/instructions/wpf.instructions.md): WPF guidance for code-behind and window behavior. Log: [conversation.md](ai-logs/2026/03/23/create-technology-instructions-20260323/conversation.md)
+- [.github/instructions/xaml.instructions.md](.github/instructions/xaml.instructions.md): XAML guidance for calculator layout and control wiring. Log: [conversation.md](ai-logs/2026/03/23/create-technology-instructions-20260323/conversation.md)
+- [.github/prompts/meta/create-technology-instructions.instructions.prompt.md](.github/prompts/meta/create-technology-instructions.instructions.prompt.md): Promptfile that inspects the repo and creates or updates technology-specific instruction files. Log: [conversation.md](ai-logs/2026/03/23/create-technology-instructions-prompt-20260323/conversation.md)
 - [Calculator.csproj](Calculator.csproj): WPF project configuration with embedded provenance metadata.
 - [App.xaml](App.xaml): WPF application declaration with embedded provenance metadata.
 - [App.xaml.cs](App.xaml.cs): WPF application bootstrap class with embedded provenance metadata.
@@ -96,6 +101,10 @@ A basic WPF calculator UI built with C# and .NET 8.
 - [summary.md](ai-logs/2026/03/23/retrofit-ai-provenance-20260323/summary.md): AI session resumability summary.
 - [conversation.md](ai-logs/2026/03/23/create-evergreen-instructions-20260323/conversation.md): AI chat transcript for evergreen instruction creation.
 - [summary.md](ai-logs/2026/03/23/create-evergreen-instructions-20260323/summary.md): AI session resumability summary for evergreen instruction creation.
+- [conversation.md](ai-logs/2026/03/23/create-technology-instructions-20260323/conversation.md): AI chat transcript for technology instruction creation.
+- [summary.md](ai-logs/2026/03/23/create-technology-instructions-20260323/summary.md): AI session resumability summary for technology instruction creation.
+- [conversation.md](ai-logs/2026/03/23/create-technology-instructions-prompt-20260323/conversation.md): AI chat transcript for technology instruction prompt creation.
+- [summary.md](ai-logs/2026/03/23/create-technology-instructions-prompt-20260323/summary.md): AI session resumability summary for technology instruction prompt creation.
 
 ## Building the Project
 
